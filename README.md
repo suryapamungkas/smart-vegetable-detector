@@ -1,3 +1,4 @@
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/97f75151-74f7-40cb-ae5e-b9045ff85f37" />
 # 🥦 RootFact — AI-Powered Vegetable Vision & Fact Generator
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Netlify-00C7B7?style=flat&logo=netlify)](https://penerapan-ai-di-aplikasi-web.netlify.app/)
