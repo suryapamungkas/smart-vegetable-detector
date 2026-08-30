@@ -39,3 +39,19 @@
    ```bash
    git clone https://github.com/suryapamungkas/root-fact-app.git
    cd root-fact-app
+
+2. Install dependencies:
+   ```bash
+   npm install
+
+3. Run development server:
+   ```bash
+   npm run start-dev
+
+4. Build for production:
+   ```bash
+   npm run build
+
+👤 Author
+Nur Hidayat Surya Pamungkas
+GitHub: @suryapamungkas
