@@ -1,6 +1,6 @@
 {
-  "name": "Root Fact App",
-  "short_name": "RootFact",
+  "name": "smart-vegetable-detector",
+  "short_name": "SmartVeggie",
   "description": "AI-Powered Vegetable Detection & Fun Facts Generator",
   "start_url": "./index.html",
   "scope": "./",

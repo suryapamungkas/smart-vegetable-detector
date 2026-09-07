@@ -1,5 +1,5 @@
 {
-  "name": "root-fact-app",
+  "name": "smart-vegetable-detector",
   "version": "1.0.0",
   "description": "AI-Powered Vegetable Detection & Fun Facts Generator",
   "private": true,
