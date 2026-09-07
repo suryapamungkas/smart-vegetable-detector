@@ -1,5 +1,6 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/97f75151-74f7-40cb-ae5e-b9045ff85f37" />
-# 🥦 RootFact — AI-Powered Vegetable Vision & Fact Generator
+<img width="1920" height="1080" alt="smart-vegetable-detector preview" src="https://github.com/user-attachments/assets/97f75151-74f7-40cb-ae5e-b9045ff85f37" />
+
+# 🥦 smart-vegetable-detector — AI-Powered Vegetable Vision & Fact Generator
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Netlify-00C7B7?style=flat&logo=netlify)](https://penerapan-ai-di-aplikasi-web.netlify.app/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
@@ -7,7 +8,7 @@
 [![Transformers.js](https://img.shields.io/badge/Transformers.js-ONNX-yellow?logo=huggingface)](https://huggingface.co/docs/transformers.js)
 [![PWA Ready](https://img.shields.io/badge/PWA-Workbox-blue?logo=pwa)](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps)
 
-**RootFact** is a client-side AI Progressive Web App (PWA) that performs real-time vegetable recognition via camera streaming and generates instant contextual health fun facts using local in-browser LLMs—completely private and offline-ready.
+**smart-vegetable-detector** is a client-side AI Progressive Web App (PWA) that performs real-time vegetable recognition via camera streaming and generates instant contextual health fun facts using local in-browser LLMs—completely private and offline-ready.
 
 ---
 
@@ -38,21 +39,28 @@
 ### Installation
 1. Clone repository:
    ```bash
-   git clone https://github.com/suryapamungkas/root-fact-app.git
-   cd root-fact-app
+   git clone https://github.com/suryapamungkas/smart-vegetable-detector.git
+   cd smart-vegetable-detector
+   ```
 
 2. Install dependencies:
    ```bash
    npm install
+   ```
 
 3. Run development server:
    ```bash
    npm run start-dev
+   ```
 
 4. Build for production:
    ```bash
    npm run build
+   ```
 
-👤 Author
-Nur Hidayat Surya Pamungkas
-GitHub: @suryapamungkas
+---
+
+## 👤 Author
+
+- **Nur Hidayat Surya Pamungkas**
+- GitHub: [@suryapamungkas](https://github.com/suryapamungkas)
